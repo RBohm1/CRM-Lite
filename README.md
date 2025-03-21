@@ -1,3 +1,6 @@
+# FA - UX Analysis
+
+
 **1\. Unclear Objectives and Feedback**
 
 Upon initiating the game, users are immediately confronted with a message stating, "Time's up! You did not make it on time, looser." This abrupt notification is both confusing and discouraging, as players are not provided with any prior context or instructions regarding the game's objectives or time constraints. Effective games typically offer clear goals and immediate feedback to guide players, enhancing engagement and satisfaction. The lack of such guidance here leads to frustration and a diminished user experience.
